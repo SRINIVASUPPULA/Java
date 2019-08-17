@@ -1,3 +1,4 @@
 Hello folks.
 This is a Test file .
 Trying to upload file from git cmd
+Trying to fetch latest updates from git to local using cmd
