@@ -21,10 +21,8 @@ public class MissingNumber {
 		
 		
 		//int a[] = {-1,0,1,2,4,5,7,8,9}; - 3 is missing -loop upto 9 from -1
-		//int a[] = {1,2,3,4,5,6,7,8,9}; - boumdary value 10 is missing loop from 1 to 10
-		
-		
-		
+		//int a[] = {1,2,3,4,5,6,7,8,9}; - boundary value 10 is missing loop from 1 to 10
+				
 	}
 
 }

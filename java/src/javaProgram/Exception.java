@@ -22,6 +22,6 @@ public class Exception {
 		}
 	}
 /*one try can followed by many catch blocks
- * every catch should preceeded by try block
+ * every catch should preceded by try block
  *  try+finally can possible -without catch*/
 }
